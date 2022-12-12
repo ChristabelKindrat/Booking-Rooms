@@ -27,4 +27,3 @@ npm start
 ```sh
 npm run storybook
 ```
-<img src="/Users/kristinakindrat/Downloads/photo_2022-12-12 21.15.03.jpeg" width="600" height="350">
